@@ -3,6 +3,7 @@ header {
     align-items: center;
     justify-content: center;
     width: 100vw;
+    min-width: 33rem;
     background-color: var(--color-primary);
 }
 
