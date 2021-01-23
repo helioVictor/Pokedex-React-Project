@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Simple Pokedex made with ReactJS
+With this Pokedex you can search some Pokemons by name and look his stats and a picture.
+
+## Tools
+* [Axios](https://github.com/axios/axios)
+* [PokeAPI](https://pokeapi.co/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
